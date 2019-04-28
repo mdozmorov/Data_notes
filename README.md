@@ -12,3 +12,5 @@
 
 - `PMLB` - A large, curated repository of benchmark datasets for evaluating supervised machine learning algorithms. https://github.com/EpistasisLab/penn-ml-benchmarks
    - Olson, Randal S., William La Cava, Patryk Orzechowski, Ryan J. Urbanowicz, and Jason H. Moore. “PMLB: A Large Benchmark Suite for Machine Learning Evaluation and Comparison.” BioData Mining 10 (2017): 36. https://doi.org/10.1186/s13040-017-0154-4.
+
+- A list of over 1,000 datasets available in R packages, curated by @VincentAB. https://vincentarelbundock.github.io/Rdatasets/datasets.html
