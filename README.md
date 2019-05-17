@@ -16,3 +16,5 @@
 - A list of over 1,000 datasets available in R packages, curated by @VincentAB. https://vincentarelbundock.github.io/Rdatasets/datasets.html
 
 - Places to find CC0 photos and the like. https://github.com/jennybc/free-photos
+
+- https://discover.repositive.io/ - Google for genomics
