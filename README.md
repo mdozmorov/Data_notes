@@ -14,7 +14,7 @@
 
 - `b3get` - a python module to download Broad Bioimage Benchmark Collection images. https://github.com/psteinb/b3get
 
-- `OpenML` - Machine Learning datasets and code, https://www.openml.org/
+- `OpenML` - platform for sharing machine learning data, tasks, and experiments, API and an R package to access it. https://www.openml.org/home. mlr R package for machine learning in R.  https://mlr.mlr-org.com/
     - Casalicchio, Giuseppe, Jakob Bossek, Michel Lang, Dominik Kirchhoff, Pascal Kerschke, Benjamin Hofner, Heidi Seibold, Joaquin Vanschoren, and Bernd Bischl. “OpenML: An R Package to Connect to the Machine Learning Platform OpenML.” Computational Statistics, June 19, 2017. https://doi.org/10.1007/s00180-017-0742-2.
 
 
