@@ -1,6 +1,8 @@
 # A continualy expanding collection of data-related notes
 
 
+- 20 Big Data Repositories You Should Check Out. https://www.datasciencecentral.com/profiles/blogs/20-big-data-repositories-you-should-check-out-1
+
 - Publishing data
     - "Scientific Data" - https://www.nature.com/content/5th-anniversary/index.html
     - "BMC Research Notes" - https://bmcresnotes.biomedcentral.com/about/introducing-data-notes
@@ -28,4 +30,7 @@
 - https://discover.repositive.io/ - Google for genomics
 
 - Data Notes - making it easier to publish your hidden data. https://bmcresnotes.biomedcentral.com/about/introducing-data-notes
+
+- The Personal Genome Project-UK data description. Open-access. Whole genome DNA sequencing, methylation Illumina 450K. 10 partisipants also have WGBS and RNA-seq data. Nextflow pipelines. Accessible on the cloud. Data: https://www.personalgenomes.org.uk/data/, Seven Bridges:https://docs.cancergenomicscloud.org/docs/personal-genome-project-uk-pgp-uk-pilot-dataset, Lifebit: https://opendata.lifebit.ai/table/pgp
+    - Chervova, Olga, Lucia Conde, José Afonso Guerra-Assunção, Ismail Moghul, Amy Philomena Webster, Alison Berner, Elizabeth Larose Cadieux, et al. “The Personal Genome Project-UK: An Open Access Resource of Human Multi-Omics Data.” BioRxiv, March 4, 2019. https://doi.org/10.1101/566711.
 
