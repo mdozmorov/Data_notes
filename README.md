@@ -15,8 +15,6 @@
 
 ## Genomics
 
-- Google Cloud Pilot RNA-Sequencing for CCLE and TCGA, https://osf.io/gqrz9/
-
 - https://discover.repositive.io/ - Google for genomics
 
 - ATAC-seq in mouse tissues. Kundaje lab pipeline, reproducible peaks.https://figshare.com/collections/An_ATAC-seq_atlas_of_chromatin_accessibility_in_mouse_tissues/4436264/1
