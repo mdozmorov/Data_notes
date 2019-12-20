@@ -23,6 +23,13 @@
 
 - Places to find CC0 photos and the like. https://github.com/jennybc/free-photos
 
+- CORGIS Datasets Project - The Collection of Really Great, Interesting, Situated Datasets. https://think.cs.vt.edu/corgis/
+
+-  Inter-university Consortium for Political and Social Research (ICPSR) provides leadership and training in data access, curation, and methods of analysis for the social science research community. https://www.icpsr.umich.edu/icpsrweb/ICPSR/
+
+- Google dataset search, https://toolbox.google.com/datasetsearch. Overview, https://www.blog.google/products/search/making-it-easier-discover-datasets/
+
+- U.S. General Services Administration. 2018. The home of the U.S. Government’s open data. https://www.data.gov/
 
 ## Genomics
 
@@ -38,6 +45,9 @@
    - Olson, Randal S., William La Cava, Patryk Orzechowski, Ryan J. Urbanowicz, and Jason H. Moore. “PMLB: A Large Benchmark Suite for Machine Learning Evaluation and Comparison.” BioData Mining 10 (2017): 36. https://doi.org/10.1186/s13040-017-0154-4.
 
 - https://discover.repositive.io/ - Google for genomics
+
+- `PharmacoGx` - Analysis of Large-Scale Pharmacogenomic Data, https://bioconductor.org/packages/release/bioc/html/PharmacoGx.html
+
 
 ## Misc
 
