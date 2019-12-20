@@ -2,12 +2,14 @@
 
 # Table of content
 
-* [Curated collections](#curated-collections)
+* [Datasets in R](#datasets-in-r)
 * [Machine learning](#machine-learning)
 * [Genomics](#genomics)
 * [Misc](#misc)
 
-## Curated collections
+## Datasets in R
+
+- `dslabs`, Data Science Labs - Datasets and functions that can be used for data analysis practice, homework and projects in data science courses and workshops. 26 datasets are available for case studies in data visualization, statistical inference, modeling, linear regression, data wrangling and machine learning. https://cran.r-project.org/web/packages/dslabs/index.html
 
 - A list of over 1,000 datasets available in R packages, curated by @VincentAB. https://vincentarelbundock.github.io/Rdatasets/datasets.html
 
