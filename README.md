@@ -35,6 +35,8 @@
 
 ## Genomics
 
+- Human Pangenome Reference Consortium - HG002 Data Freeze (v1.0). Genome sequencing data using different technologies (PacBio, Oxford Nanopore, Hi-C, Strand-seq, 10X Genomics, BioNano, Illumina). https://github.com/human-pangenomics/HG002_Data_Freeze_v1.0
+
 - ATAC-seq in mouse tissues. Kundaje lab pipeline, reproducible peaks.https://figshare.com/collections/An_ATAC-seq_atlas_of_chromatin_accessibility_in_mouse_tissues/4436264/1
     - Liu, Chuanyu, Mingyue Wang, Xiaoyu Wei, Liang Wu, Jiangshan Xu, Xi Dai, Jun Xia, et al. “An ATAC-Seq Atlas of Chromatin Accessibility in Mouse Tissues.” Scientific Data 6, no. 1 (December 2019): 65. https://doi.org/10.1038/s41597-019-0071-0.
 
