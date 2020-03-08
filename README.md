@@ -13,6 +13,8 @@
 
 - A list of over 1,000 datasets available in R packages, curated by @VincentAB. https://vincentarelbundock.github.io/Rdatasets/datasets.html
 
+- `fivethirtyeight` R Package, 127 datasets, https://cran.r-project.org/web/packages/fivethirtyeight/vignettes/fivethirtyeight.html
+
 
 ## Machine learning
 
