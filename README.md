@@ -5,6 +5,7 @@
 * [Datasets in R](#datasets-in-r)
 * [Machine learning](#machine-learning)
 * [Genomics](#genomics)
+* [COVID-19](#covid-19)
 * [Misc](#misc)
 
 ## Datasets in R
@@ -54,6 +55,20 @@
 - `PMLB` - A large, curated repository of benchmark datasets for evaluating supervised machine learning algorithms. https://github.com/EpistasisLab/penn-ml-benchmarks
    - Olson, Randal S., William La Cava, Patryk Orzechowski, Ryan J. Urbanowicz, and Jason H. Moore. “PMLB: A Large Benchmark Suite for Machine Learning Evaluation and Comparison.” BioData Mining 10 (2017): 36. https://doi.org/10.1186/s13040-017-0154-4.
 
+
+## COVID-19
+
+- Useful projects and resources for COVID-19. https://github.com/soroushchehresa/awesome-coronavirus
+
+- Up-to-date data resources, analysis tools, and visualizations for COVID-19 pandemic data https://seandavi.github.io/sars2pack, https://github.com/seandavi/sars2pack
+
+- An ongoing repository of data on coronavirus cases and deaths in the U.S. https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html, https://github.com/nytimes/covid-19-data
+
+- Novel Coronavirus 2019 time series data on cases https://datahub.io/core/covid-19, https://github.com/datasets/covid-19
+
+- COVID-19 Italia - Monitoraggio situazione. https://github.com/pcm-dpc/COVID-19
+
+- Time Series of the Covid19 epidemic data in Italy. https://github.com/DavideMagno/ItalianCovidData
 
 ## Misc
 
