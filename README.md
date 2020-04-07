@@ -58,6 +58,8 @@
 
 ## COVID-19
 
+- Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE, https://systems.jhu.edu/research/public-health/ncov/, https://github.com/CSSEGISandData/COVID-19
+
 - Useful projects and resources for COVID-19. https://github.com/soroushchehresa/awesome-coronavirus
 
 - Up-to-date data resources, analysis tools, and visualizations for COVID-19 pandemic data https://seandavi.github.io/sars2pack, https://github.com/seandavi/sars2pack
