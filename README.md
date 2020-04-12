@@ -68,6 +68,8 @@
 
 - An ongoing repository of data on coronavirus cases and deaths in the U.S. https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html, https://github.com/nytimes/covid-19-data
 
+- Open-Access Data and Computational Resources to Address COVID-19 https://datascience.nih.gov/covid-19-open-access-resources
+
 - Novel Coronavirus 2019 time series data on cases https://datahub.io/core/covid-19, https://github.com/datasets/covid-19
 
 - COVID-19 Italia - Monitoraggio situazione. https://github.com/pcm-dpc/COVID-19
