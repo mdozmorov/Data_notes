@@ -72,6 +72,8 @@
 
 - Novel Coronavirus 2019 time series data on cases https://datahub.io/core/covid-19, https://github.com/datasets/covid-19
 
+- The coronavirus R package provides a tidy format dataset of the 2019 Novel Coronavirus COVID-19 (2019-nCoV) epidemic. The raw data pulled from the Johns Hopkins University Center for Systems Science and Engineering (JHU CCSE) Coronavirus repository. https://github.com/RamiKrispin/coronavirus
+
 - COVID-19 Italia - Monitoraggio situazione. https://github.com/pcm-dpc/COVID-19
 
 - Time Series of the Covid19 epidemic data in Italy. https://github.com/DavideMagno/ItalianCovidData
