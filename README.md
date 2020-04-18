@@ -60,6 +60,8 @@
 
 ## COVID-19
 
+- COVID-19 Open Research Dataset (CORD-19) - full-text of COVID-related papers, PubMed, bioRxiv & medRxiv, JSON format, downloadable https://pages.semanticscholar.org/coronavirus-research
+
 - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE, https://systems.jhu.edu/research/public-health/ncov/, https://github.com/CSSEGISandData/COVID-19
 
 - Useful projects and resources for COVID-19. https://github.com/soroushchehresa/awesome-coronavirus
