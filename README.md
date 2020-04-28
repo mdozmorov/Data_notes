@@ -58,8 +58,9 @@
 
 ### Imaging
 
-- [BACH, breast cancer histology images](https://iciar2018-challenge.grand-challenge.org/Home/) - Hematoxylin and eosin (H&E) stained breast histology microscopy and whole-slide images.
+- [BACH, breast cancer histology images](https://iciar2018-challenge.grand-challenge.org/Home/) - Hematoxylin and eosin (H&E) stained breast histology microscopy and whole-slide images
 
+- [Medical Data for Machine Learning](https://github.com/beamandrew/medical-data) - a curated list of medical data for machine learning, mostly imaging
 
 ## COVID-19
 
