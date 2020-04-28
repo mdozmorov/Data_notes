@@ -4,6 +4,7 @@
 
 * [Datasets in R](#datasets-in-r)
 * [Machine learning](#machine-learning)
+  * [Imaging](#imaging)
 * [Genomics](#genomics)
 * [COVID-19](#covid-19)
 * [Misc](#misc)
@@ -55,7 +56,9 @@
 - `PMLB` - A large, curated repository of benchmark datasets for evaluating supervised machine learning algorithms. https://github.com/EpistasisLab/penn-ml-benchmarks
    - Olson, Randal S., William La Cava, Patryk Orzechowski, Ryan J. Urbanowicz, and Jason H. Moore. “PMLB: A Large Benchmark Suite for Machine Learning Evaluation and Comparison.” BioData Mining 10 (2017): 36. https://doi.org/10.1186/s13040-017-0154-4.
 
-- BACH, breast cancer histology images https://iciar2018-challenge.grand-challenge.org/Home/
+### Imaging
+
+- [BACH, breast cancer histology images](https://iciar2018-challenge.grand-challenge.org/Home/) - Hematoxylin and eosin (H&E) stained breast histology microscopy and whole-slide images.
 
 
 ## COVID-19
