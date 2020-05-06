@@ -58,6 +58,9 @@
 
 ### Imaging
 
+- Breast cancer image classification. Data from [Stanford Tissue Microarray Database (TMAD)](https://tma.im/cgi-bin/home.pl) and [Breast Cancer Histopathological Database (BreakHis)](https://web.inf.ufpr.br/vri/databases/breast-cancer-histopathological-database-breakhis/), >6K images. Different variants of ResNet and Inception architectures. Data augmentation (resizing, rotation, cropping, flipping). Training details. Classification into malignant and benign, or into subtypes. Can handle images at different magnifications. ResNet performs better. [GitHub repository](https://github.com/MachineLearning4Work/DeepBreastCancer) includes crawler to get images
+    - M. Jannesari, M. Habibzadeh, H. Aboulkheyr, P. Khosravi, O. Elemento, M. Totonchi, and I. Hajirasouliha. “[Breast Cancer Histopathological Image Classification: A Deep Learning Approach.](https://doi.org/10.1109/BIBM.2018.8621307)” In 2018 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2405–12, 2018
+
 - [BACH, breast cancer histology images](https://iciar2018-challenge.grand-challenge.org/Home/) - Hematoxylin and eosin (H&E) stained breast histology microscopy and whole-slide images
 
 - [Medical Data for Machine Learning](https://github.com/beamandrew/medical-data) - a curated list of medical data for machine learning, mostly imaging
