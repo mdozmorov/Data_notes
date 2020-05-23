@@ -67,6 +67,8 @@
 
 ## COVID-19
 
+- ["COVIDgenes" data portal](https://covidgenes.weill.cornell.edu), [Tweet by Chris Mason](https://twitter.com/mason_lab/status/1263838646593093632?s=20)
+
 - [COVID-19 Crowd Generated Gene and Drug Set Library](https://amp.pharm.mssm.edu/covid19/) - experimental, computational, twitted drug sets, gene sets, collected by Avi Ma'ayan's lab. Analysis with EnrichR, Venn diagrams
 
 - [COVID19: Coronavirus COVID-19 (2019-nCoV) Epidemic Datasets](https://cran.r-project.org/web/packages/COVID19/index.html) - Unified tidy format datasets of COVID-19 (2019-nCoV) epidemic across several sources. The data are downloaded in real-time, cleaned and matched with exogenous variables. [Tweet](https://twitter.com/strnr/status/1255066365012082690?s=20), [COVID-19 Data Hub](https://covid19datahub.io)
