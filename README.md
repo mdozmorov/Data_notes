@@ -7,6 +7,7 @@
   * [Imaging](#imaging)
 * [Genomics](#genomics)
 * [COVID-19](#covid-19)
+* [Text](#text)
 * [Misc](#misc)
 
 ## Datasets in R
@@ -94,6 +95,10 @@
 - COVID-19 Italia - Monitoraggio situazione. https://github.com/pcm-dpc/COVID-19
 
 - Time Series of the Covid19 epidemic data in Italy. https://github.com/DavideMagno/ItalianCovidData
+
+## Text
+
+- [Gitenberg](https://gitenberg.org/) is a collaborative, open source community curating and publishing highly usable and attractive ebooks in the public domain. Our books are free to use by anyone for any purpose. They contain detailed metadata and are accessible in a wide variety of formats. https://gitenberg.org/
 
 ## Misc
 
