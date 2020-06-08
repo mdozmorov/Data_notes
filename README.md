@@ -35,6 +35,8 @@
 
 - `PharmacoGx` - Analysis of Large-Scale Pharmacogenomic Data, https://bioconductor.org/packages/release/bioc/html/PharmacoGx.html
 
+- [datamicroarray](https://github.com/ramhiser/datamicroarray) - A collection of small-sample, high-dimensional microarray data sets to assess machine-learning algorithms and models
+
 ## Machine learning
 
 - 20 Big Data Repositories You Should Check Out. https://www.datasciencecentral.com/profiles/blogs/20-big-data-repositories-you-should-check-out-1
