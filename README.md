@@ -3,9 +3,9 @@
 # Table of content
 
 * [Datasets in R](#datasets-in-r)
+* [Genomics](#genomics)
 * [Machine learning](#machine-learning)
   * [Imaging](#imaging)
-* [Genomics](#genomics)
 * [COVID-19](#covid-19)
 * [Text](#text)
 * [Misc](#misc)
@@ -38,6 +38,8 @@
 - [datamicroarray](https://github.com/ramhiser/datamicroarray) - A collection of small-sample, high-dimensional microarray data sets to assess machine-learning algorithms and models
 
 ## Machine learning
+
+- [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php) - Classical aggregator of well-curated datasets for machine learning
 
 - 20 Big Data Repositories You Should Check Out. https://www.datasciencecentral.com/profiles/blogs/20-big-data-repositories-you-should-check-out-1
 
