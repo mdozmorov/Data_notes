@@ -74,6 +74,8 @@
 
 ## COVID-19
 
+- [COVID-19 RNA-Seq datasets](https://github.com/urmi-21/COVID-19-RNA-Seq-datasets) - A repository for sharing information on available COVID-19 RNA-Seq datasets. Links to GEO resources, and more 
+
 - ["COVIDgenes" data portal](https://covidgenes.weill.cornell.edu), [Tweet by Chris Mason](https://twitter.com/mason_lab/status/1263838646593093632?s=20)
 
 - [COVID-19 Crowd Generated Gene and Drug Set Library](https://amp.pharm.mssm.edu/covid19/) - experimental, computational, twitted drug sets, gene sets, collected by Avi Ma'ayan's lab. Analysis with EnrichR, Venn diagrams
