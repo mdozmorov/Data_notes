@@ -124,6 +124,8 @@ A continualy expanding collection of data-related notes. Please, [contribute and
 
 - 20 Big Data Repositories You Should Check Out. https://www.datasciencecentral.com/profiles/blogs/20-big-data-repositories-you-should-check-out-1
 
+- [Registry of Open Data on AWS](https://registry.opendata.aws/) - Amazon-hosted datasets. Genomics, satellite imagery, population statistics, many more
+
 - Publishing data
     - "Scientific Data" - https://www.nature.com/content/5th-anniversary/index.html
     - "BMC Research Notes" - https://bmcresnotes.biomedcentral.com/about/introducing-data-notes
