@@ -1,14 +1,23 @@
-# A continualy expanding collection of data-related notes
+# Data related notes
+
+A continualy expanding collection of data-related notes. Please, [contribute and get in touch](CONTRIBUTING.md)! See [MDmisc notes](https://github.com/mdozmorov/MDmisc_notes) for other programming and genomics-related notes.
 
 # Table of content
 
-* [Datasets in R](#datasets-in-r)
-* [Genomics](#genomics)
-* [Machine learning](#machine-learning)
-  * [Imaging](#imaging)
-* [COVID-19](#covid-19)
-* [Text](#text)
-* [Misc](#misc)
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
+- [Datasets in R](#datasets-in-r)
+- [Genomics](#genomics)
+- [Machine learning](#machine-learning)
+  - [Imaging](#imaging)
+- [COVID-19](#covid-19)
+- [Text](#text)
+- [Misc](#misc)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 
 ## Datasets in R
 
@@ -71,6 +80,9 @@
 - [BACH, breast cancer histology images](https://iciar2018-challenge.grand-challenge.org/Home/) - Hematoxylin and eosin (H&E) stained breast histology microscopy and whole-slide images
 
 - [Medical Data for Machine Learning](https://github.com/beamandrew/medical-data) - a curated list of medical data for machine learning, mostly imaging
+
+- [ANTsRNet](https://github.com/ANTsX/ANTsRNet) - Medical image analysis framework merging ANTsR and deep learning. A collection of deep learning architectures ported to the R language and tools for basic medical image processing. Based on keras and tensorflow with cross-compatibility with our python analog ANTsPyNet
+
 
 ## COVID-19
 
