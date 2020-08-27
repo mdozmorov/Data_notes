@@ -10,6 +10,7 @@ A continualy expanding collection of data-related notes. Please, [contribute and
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
+- [Datasets](#datasets)
 - [Datasets in R](#datasets-in-r)
 - [Genomics](#genomics)
 - [Machine learning](#machine-learning)
@@ -20,6 +21,13 @@ A continualy expanding collection of data-related notes. Please, [contribute and
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
+## Datasets
+
+- [Google dataset search](https://toolbox.google.com/datasetsearch) - search for any dataset. [Overview](https://www.blog.google/products/search/making-it-easier-discover-datasets/)
+
+- [20 Big Data Repositories You Should Check Out](https://www.datasciencecentral.com/profiles/blogs/20-big-data-repositories-you-should-check-out-1) - blog post from Data Science Central
+
+- [Registry of Open Data on AWS](https://registry.opendata.aws/) - Amazon-hosted datasets. Genomics, satellite imagery, population statistics, many more
 
 ## Datasets in R
 
@@ -64,8 +72,6 @@ A continualy expanding collection of data-related notes. Please, [contribute and
 - CORGIS Datasets Project - The Collection of Really Great, Interesting, Situated Datasets. https://think.cs.vt.edu/corgis/
 
 -  Inter-university Consortium for Political and Social Research (ICPSR) provides leadership and training in data access, curation, and methods of analysis for the social science research community. https://www.icpsr.umich.edu/icpsrweb/ICPSR/
-
-- Google dataset search, https://toolbox.google.com/datasetsearch. Overview, https://www.blog.google/products/search/making-it-easier-discover-datasets/
 
 - U.S. General Services Administration. 2018. The home of the U.S. Government’s open data. https://www.data.gov/
 
@@ -123,10 +129,6 @@ A continualy expanding collection of data-related notes. Please, [contribute and
 - [Gitenberg](https://gitenberg.org/) is a collaborative, open source community curating and publishing highly usable and attractive ebooks in the public domain. Our books are free to use by anyone for any purpose. They contain detailed metadata and are accessible in a wide variety of formats. https://gitenberg.org/
 
 ## Misc
-
-- 20 Big Data Repositories You Should Check Out. https://www.datasciencecentral.com/profiles/blogs/20-big-data-repositories-you-should-check-out-1
-
-- [Registry of Open Data on AWS](https://registry.opendata.aws/) - Amazon-hosted datasets. Genomics, satellite imagery, population statistics, many more
 
 - Publishing data
     - "Scientific Data" - https://www.nature.com/content/5th-anniversary/index.html
