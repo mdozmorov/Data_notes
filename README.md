@@ -39,6 +39,9 @@ A continualy expanding collection of data-related notes. Please, [contribute and
 
 ## Genomics
 
+- [Go Get Data (GGD)](https://gogetdata.github.io/recipes.html#recipes) - access to scientific data via Conda recipes. BED files of various genomic features, from cancer genes to structural variants and more. Homo Sapiens, Mus Musculus, Danio Rerio, various genomic assemblies. 
+- Cormier, Michael, Jonathan Belyeu, Brent S Pedersen, Joseph Brown, Johannes Koster, and Aaron Quinlan. “[Go Get Data (GGD): Simple, Reproducible Access to Scientific Data](https://doi.org/10.1101/2020.09.10.291377).” Preprint. Bioinformatics, September 11, 2020
+
 - Human Pangenome Reference Consortium - HG002 Data Freeze (v1.0). Genome sequencing data using different technologies (PacBio, Oxford Nanopore, Hi-C, Strand-seq, 10X Genomics, BioNano, Illumina). https://github.com/human-pangenomics/HG002_Data_Freeze_v1.0
 
 - ATAC-seq in mouse tissues. Kundaje lab pipeline, reproducible peaks.https://figshare.com/collections/An_ATAC-seq_atlas_of_chromatin_accessibility_in_mouse_tissues/4436264/1
