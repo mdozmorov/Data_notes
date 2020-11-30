@@ -39,6 +39,9 @@ A continualy expanding collection of data-related notes. Please, [contribute and
 
 ## Genomics
 
+- [FANTOM6](https://fantom.gsc.riken.jp/6/) data update. New noncoding RNA annotations, remapped [miRNA atlases](https://fantom.gsc.riken.jp/zenbu/reports/#FANTOM_miRNA_atlas), new [Transcription initiation peaks](https://zenodo.org/record/3856413#.X8U8LGRKgoI) data, [MotifActivity](https://fantom.gsc.riken.jp/5/suppl/Alam_et_al_2020/), KD of 285 lncRNAs - expression and phenotyping data. [RADICL-seq - RNA-chromatin interaction](https://fantom.gsc.riken.jp/6/datafiles/RADICL-Seq/) BEDPE data. [RefEx reference expression dataset](https://refex.dbcls.jp/index.php?lang=en), and more in the paper.
+    - Abugessaisa, Imad, Jordan A Ramilowski, Marina Lizio, Jesicca Severin, Akira Hasegawa, Jayson Harshbarger, Atsushi Kondo, et al. “[FANTOM Enters 20th Year: Expansion of Transcriptomic Atlases and Functional Annotation of Non-Coding RNAs](https://doi.org/10.1093/nar/gkaa1054)”
+
 - [Go Get Data (GGD)](https://gogetdata.github.io/recipes.html#recipes) - access to scientific data via Conda recipes. BED files of various genomic features, from cancer genes to structural variants and more. Homo Sapiens, Mus Musculus, Danio Rerio, various genomic assemblies. 
 - Cormier, Michael, Jonathan Belyeu, Brent S Pedersen, Joseph Brown, Johannes Koster, and Aaron Quinlan. “[Go Get Data (GGD): Simple, Reproducible Access to Scientific Data](https://doi.org/10.1101/2020.09.10.291377).” Preprint. Bioinformatics, September 11, 2020
 
