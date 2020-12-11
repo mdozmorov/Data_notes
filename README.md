@@ -39,6 +39,9 @@ A continualy expanding collection of data-related notes. Please, [contribute and
 
 ## Genomics
 
+- [OmicsDI](https://www.omicsdi.org/) - Omics Discovery Index platform for searching multi-omics datasets. Integrates proteomics, genomics, metabolomics, and transcriptomics datasets. Includes data from multiple databases, from GEO and EGA to LINCS, dbGaP, more. Search by organism, disease, tissue, gene identifiers, keywords.
+   - Perez-Riverol, Yasset. “[Discovering and Linking Public Omics Data Sets Using the Omics Discovery Index](https://doi.org/10.1038/nbt.3790).” NATURE BIOTECHNOLOGY 35, no. 5 (2017)
+
 - [FANTOM6](https://fantom.gsc.riken.jp/6/) data update. New noncoding RNA annotations, remapped [miRNA atlases](https://fantom.gsc.riken.jp/zenbu/reports/#FANTOM_miRNA_atlas), new [Transcription initiation peaks](https://zenodo.org/record/3856413#.X8U8LGRKgoI) data, [MotifActivity](https://fantom.gsc.riken.jp/5/suppl/Alam_et_al_2020/), KD of 285 lncRNAs - expression and phenotyping data. [RADICL-seq - RNA-chromatin interaction](https://fantom.gsc.riken.jp/6/datafiles/RADICL-Seq/) BEDPE data. [RefEx reference expression dataset](https://refex.dbcls.jp/index.php?lang=en), and more in the paper.
     - Abugessaisa, Imad, Jordan A Ramilowski, Marina Lizio, Jesicca Severin, Akira Hasegawa, Jayson Harshbarger, Atsushi Kondo, et al. “[FANTOM Enters 20th Year: Expansion of Transcriptomic Atlases and Functional Annotation of Non-Coding RNAs](https://doi.org/10.1093/nar/gkaa1054)”
 
