@@ -103,6 +103,8 @@ A continualy expanding collection of data-related notes. Please, [contribute and
 
 ## COVID-19
 
+- [owid/covid-19-data](https://github.com/owid/covid-19-data) - Data on COVID-19 (coronavirus) cases, deaths, hospitalizations, tests. All countries. Updated daily by Our World in Data. [Web site](https://ourworldindata.org/coronavirus)
+
 - [COVID-19 RNA-Seq datasets](https://github.com/urmi-21/COVID-19-RNA-Seq-datasets) - A repository for sharing information on available COVID-19 RNA-Seq datasets. Links to GEO resources, and more 
 
 - ["COVIDgenes" data portal](https://covidgenes.weill.cornell.edu), [Tweet by Chris Mason](https://twitter.com/mason_lab/status/1263838646593093632?s=20)
