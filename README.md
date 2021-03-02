@@ -141,9 +141,10 @@ A continualy expanding collection of data-related notes. Please, [contribute and
 
 ## Misc
 
-- Publishing data
-    - "Scientific Data" - https://www.nature.com/content/5th-anniversary/index.html
-    - "BMC Research Notes" - https://bmcresnotes.biomedcentral.com/about/introducing-data-notes
+- Journals publishing data
+    - [Scientific Data](https://www.nature.com/content/5th-anniversary/index.html)
+    - [BMC Research Notes](https://bmcresnotes.biomedcentral.com/about/introducing-data-notes)
+    - [BMC Genomic Data](https://bmcgenomdata.biomedcentral.com/)
 
 - Patent analysis using the Google Patents Public Datasets on BigQuery. https://github.com/google/patents-public-data
 
