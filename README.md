@@ -31,11 +31,13 @@ A continualy expanding collection of data-related notes. Please, [contribute and
 
 ## Datasets in R
 
-- `library(help = "datasets")` - shows built-in R datasets
+- `library(help = "datasets")` or `data()` - shows built-in R datasets
 
-- A list of over 1,000 datasets available in R packages, curated by @VincentAB. https://vincentarelbundock.github.io/Rdatasets/datasets.html
+- [A list of over 1,000 datasets available in R packages](https://vincentarelbundock.github.io/Rdatasets/datasets), curated by @VincentAB.
 
-- `dslabs` - Data Science Labs - Datasets and functions that can be used for data analysis practice, homework and projects in data science courses and workshops. 26 datasets are available for case studies in data visualization, statistical inference, modeling, linear regression, data wrangling and machine learning. Made by Rafael Irizarry and Amy Gill. https://cran.r-project.org/web/packages/dslabs/index.html
+- [Tidy Tuesday](https://github.com/rfordatascience/tidytuesday) - A weekly social data project in R with curated datasets
+
+- [dslabs](https://cran.r-project.org/web/packages/dslabs/index.html) - Data Science Labs - Datasets and functions that can be used for data analysis practice, homework and projects in data science courses and workshops. 26 datasets are available for case studies in data visualization, statistical inference, modeling, linear regression, data wrangling and machine learning. Made by Rafael Irizarry and Amy Gill. 
 
 ## Genomics
 
