@@ -37,6 +37,8 @@ A continualy expanding collection of data-related notes. Please, [contribute and
 
 - [Tidy Tuesday](https://github.com/rfordatascience/tidytuesday) - A weekly social data project in R with curated datasets
 
+- [dsbox](https://rstudio-education.github.io/dsbox/reference/index.html) - Data Science in the Box datasets
+
 - [dslabs](https://cran.r-project.org/web/packages/dslabs/index.html) - Data Science Labs - Datasets and functions that can be used for data analysis practice, homework and projects in data science courses and workshops. 26 datasets are available for case studies in data visualization, statistical inference, modeling, linear regression, data wrangling and machine learning. Made by Rafael Irizarry and Amy Gill. 
 
 ## Genomics
