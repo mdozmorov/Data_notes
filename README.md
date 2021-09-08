@@ -43,6 +43,8 @@ A continualy expanding collection of data-related notes. Please, [contribute and
 
 ## Genomics
 
+- [Multi-omics studies by BIRSBiointegration Hackathon](https://github.com/BIRSBiointegration/Hackathon) - three single-cell multi-omics hackathons: Spatial transcriptomics, Spatial proteomics and scNMT-seq. [Tweet](https://twitter.com/FertigLab/status/1423628337726038021?s=20)
+
 - [OmicsDI](https://www.omicsdi.org/) - Omics Discovery Index platform for searching multi-omics datasets. Integrates proteomics, genomics, metabolomics, and transcriptomics datasets. Includes data from multiple databases, from GEO and EGA to LINCS, dbGaP, more. Search by organism, disease, tissue, gene identifiers, keywords.
    - Perez-Riverol, Yasset. “[Discovering and Linking Public Omics Data Sets Using the Omics Discovery Index](https://doi.org/10.1038/nbt.3790).” NATURE BIOTECHNOLOGY 35, no. 5 (2017)
 
