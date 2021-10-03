@@ -109,6 +109,9 @@ A continualy expanding collection of data-related notes. Please, [contribute and
 
 ## COVID-19
 
+- [Mortality Tracker](https://episphere.github.io/mortalitytracker/) - web app for public mortality timecourse data analysis and visualization. COVID-19 and more. [GitHub](https://github.com/episphere/mortalitytracker), [12min video](https://youtu.be/ZsvCe7cZzLo)
+    - Almeida, Jonas S, Meredith Shiels, Praphulla Bhawsar, Bhaumik Patel, Erika Nemeth, Richard Moffitt, Montserrat Garcia Closas, Neal Freedman, and Amy Berrington. “[Mortality Tracker: The COVID-19 Case for Real Time Web APIs as Epidemiology Commons](https://doi.org/10.1093/bioinformatics/btaa933).” Bioinformatics, (August 4, 2021)
+
 - [owid/covid-19-data](https://github.com/owid/covid-19-data) - Data on COVID-19 (coronavirus) cases, deaths, hospitalizations, tests. All countries. Updated daily by Our World in Data. [Web site](https://ourworldindata.org/coronavirus)
 
 - [COVID-19 RNA-Seq datasets](https://github.com/urmi-21/COVID-19-RNA-Seq-datasets) - A repository for sharing information on available COVID-19 RNA-Seq datasets. Links to GEO resources, and more 
