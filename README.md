@@ -109,6 +109,11 @@ A continualy expanding collection of data-related notes. Please, [contribute and
 
 ## COVID-19
 
+- [SARS COV-2 database](https://atlas.fredhutch.org/fredhutch/covid/) of uniformly processed 21 COVID-19 scRNA-seq datasets (over 3.2 million cells). [Table 1](https://www.nature.com/articles/s41587-021-01131-y/tables/1) - COVID-19 data obtained with various technologies. [GitHub](https://github.com/RGLab/covid19_sc) with processing scripts. <details>
+    <summary>Paper</summary>
+    Tian, Yuan, Lindsay N. Carpp, Helen E. R. Miller, Michael Zager, Evan W. Newell, and Raphael Gottardo. “Single-Cell Immunology of SARS-CoV-2 Infection.” Nature Biotechnology, December 20, 2021. https://doi.org/10.1038/s41587-021-01131-y.
+</details>
+
 - [Mortality Tracker](https://episphere.github.io/mortalitytracker/) - web app for public mortality timecourse data analysis and visualization. COVID-19 and more. [GitHub](https://github.com/episphere/mortalitytracker), [12min video](https://youtu.be/ZsvCe7cZzLo)
     - Almeida, Jonas S, Meredith Shiels, Praphulla Bhawsar, Bhaumik Patel, Erika Nemeth, Richard Moffitt, Montserrat Garcia Closas, Neal Freedman, and Amy Berrington. “[Mortality Tracker: The COVID-19 Case for Real Time Web APIs as Epidemiology Commons](https://doi.org/10.1093/bioinformatics/btaa933).” Bioinformatics, (August 4, 2021)
 
