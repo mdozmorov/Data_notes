@@ -1,6 +1,6 @@
 # Data related notes
 
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs) [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) 
 
 A continualy expanding collection of data-related notes. Please, [contribute and get in touch](CONTRIBUTING.md)! See [MDmisc notes](https://github.com/mdozmorov/MDmisc_notes) for other programming and genomics-related notes.
 
@@ -34,6 +34,8 @@ A continualy expanding collection of data-related notes. Please, [contribute and
 - `library(help = "datasets")` or `data()` - shows built-in R datasets
 
 - [A list of over 1,000 datasets available in R packages](https://vincentarelbundock.github.io/Rdatasets/datasets), curated by @VincentAB.
+
+- [curran/data](https://github.com/curran/data) - A collection of public data sets, primarily in text format
 
 - [Tidy Tuesday](https://github.com/rfordatascience/tidytuesday) - A weekly social data project in R with curated datasets
 
